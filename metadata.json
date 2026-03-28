@@ -1,0 +1,7 @@
+{
+  "name": "Khushi AI",
+  "description": "A voice-enabled AI assistant that listens and speaks in Hindi and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
