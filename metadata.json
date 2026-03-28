@@ -1,6 +1,6 @@
 {
-  "name": "Khushi AI",
-  "description": "A voice-enabled AI assistant that listens and speaks in Hindi and English.",
+  "name": "Khushi AI - Hindi Voice Assistant",
+  "description": "Your friendly Hindi-speaking AI assistant for productivity and chat. Install it on your mobile for a native app experience.",
   "requestFramePermissions": [
     "microphone"
   ]

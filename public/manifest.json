@@ -1,0 +1,21 @@
+{
+  "name": "Khushi AI - Hindi Voice Assistant",
+  "short_name": "Khushi AI",
+  "description": "Your friendly Hindi-speaking AI assistant for productivity and chat.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF6321",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/khushiai/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/khushiai/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
